@@ -1,0 +1,19 @@
+{
+  "name": "test-wikimart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ASteb/test-wikimart.git"
+  },
+  "author": "A_Steb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASteb/test-wikimart/issues"
+  },
+  "homepage": "https://github.com/ASteb/test-wikimart#readme"
+}
